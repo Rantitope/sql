@@ -6,6 +6,7 @@
 <br>
 
 **Write**: Reflect on your previous work and how you would adjust to include ethics and inequity components. Total length should be a few paragraphs, no more than one page.
+
 When reflecting on previous work and considering how ethics and inequity components could be incorporated, it’s essential to start by acknowledging the broader context in which technology, data, and decision-making processes operate. Many of the projects we've undertaken, particularly in fields like database management, product distribution, and algorithm design, often have ethical implications that may not be immediately obvious but are critical to address.
 
 For instance, in the SQL projects, which often involve handling customer data or optimizing product distribution, an ethical lens would compel us to consider data privacy and security, especially regarding personally identifiable information (PII). It would be essential to ask questions like: Are we ensuring that customer data is anonymized? Are our data storage and retrieval systems secure? If our SQL queries result in insights that can inform decision-making, are we aware of the potential biases that might skew those insights? Integrating ethics into this work would mean consistently assessing the data sources for bias and inequity and being mindful of the consequences of our queries and reports.
